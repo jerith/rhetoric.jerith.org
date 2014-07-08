@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>jerith dot org</title><link>http://jerith.org/</link><description>Making the world a better place, one line of code at a time.</description><atom:link href="http://jerith.org/feeds/jeremy-thurgood.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 08 Jul 2014 00:00:00 +0200</lastBuildDate><item><title>First Post</title><link>http://jerith.org/posts/2014/07/first-post/</link><description>&lt;p&gt;This is my new blog. My old blog probably isn't all that hard to find, but I
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>jerith dot org</title><link>http://rhetoric.jerith.org/</link><description>Making the world a better place, one line of code at a time.</description><atom:link href="http://rhetoric.jerith.org/feeds/jeremy-thurgood.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 08 Jul 2014 00:00:00 +0200</lastBuildDate><item><title>First Post</title><link>http://rhetoric.jerith.org/posts/2014/07/first-post/</link><description>&lt;p&gt;This is my new blog. My old blog probably isn't all that hard to find, but I
 was a different person back then and I don't care enough about (most of) that
 old content to migrate it. I'm not going delete it or anything, and I'll
 probably make some effort to preserve it if the service it uses goes away, but
@@ -15,4 +15,4 @@ don't much care about the sorts of things that are only really important to
 friends and family. When I look back on things I wrote in the past, I find the
 stuff that's aged best is the stuff that's less personal. If you want to keep
 up with the (mostly boring) details of my daily life, you're better off
-chatting to me on IRC or over a beer.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeremy Thurgood</dc:creator><pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate><guid>tag:jerith.org,2014-07-08:posts/2014/07/first-post/</guid></item></channel></rss>
+chatting to me on IRC or over a beer.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeremy Thurgood</dc:creator><pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate><guid>tag:rhetoric.jerith.org,2014-07-08:posts/2014/07/first-post/</guid></item></channel></rss>
