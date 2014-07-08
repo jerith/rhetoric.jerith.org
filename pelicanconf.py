@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Jeremy Thurgood'
 SITENAME = 'jerith dot org'
-SITEURL = ''
+SITEURL = 'http://rhetoric.jerith.org'
 SITESUBTITLE = 'Making the world a better place, one line of code at a time.'
 
 PATH = 'content'
@@ -12,6 +12,11 @@ PATH = 'content'
 TIMEZONE = 'Africa/Johannesburg'
 
 DEFAULT_LANG = u'en'
+
+STATIC_PATHS = ['extra/CNAME']
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+}
 
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = None
