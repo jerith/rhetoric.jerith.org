@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Jeremy Thurgood'
 SITENAME = 'jerith dot org'
-SITEURL = 'http://rhetoric.jerith.org'
+SITEURL = ''
 SITESUBTITLE = 'Making the world a better place, one line of code at a time.'
 
 PATH = 'content'
@@ -13,7 +13,7 @@ TIMEZONE = 'Africa/Johannesburg'
 
 DEFAULT_LANG = u'en'
 
-STATIC_PATHS = ['extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
 }
