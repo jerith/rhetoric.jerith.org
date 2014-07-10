@@ -15,17 +15,6 @@ height: 100%;
 margin-bottom: 1em; 
 }
 
-.top-bar h1 {
-margin-bottom: 0;
-}
-
-.top-bar h5 {
-color: #FFFFFF;
-text-align: center;
-font-weight: normal;
-font-style: italic;
-}
-
 .top-bar a { color: #fff } /* Sitename color */
 ul.button-group.navigation { margin-bottom: 1em; }
 
