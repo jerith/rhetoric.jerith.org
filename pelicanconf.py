@@ -47,4 +47,5 @@ MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
 DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 
 # THEME = "themes/tuxlite_tbs"
-THEME = "themes/tuxlite_zf"
+# THEME = "themes/tuxlite_zf"
+THEME = "themes/tuxlite_jerith"
