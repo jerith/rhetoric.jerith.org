@@ -13,9 +13,10 @@ TIMEZONE = 'Africa/Johannesburg'
 
 DEFAULT_LANG = u'en'
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
 # Feed generation is usually not desired when developing
