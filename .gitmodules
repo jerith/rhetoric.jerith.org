@@ -1,0 +1,8 @@
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = git@github.com:getpelican/pelican-plugins.git
+
+[submodule "themes/pelican-elegant"]
+	path = themes/pelican-elegant
+	url = git@github.com:jerith/pelican-elegant.git
+	branch = optional-recent-summary
