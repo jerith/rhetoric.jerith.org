@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>metacarpal rhetoric</title><link href="http://rhetoric.jerith.org/" rel="alternate"></link><link href="http://rhetoric.jerith.org/feeds/programming.atom.xml" rel="self"></link><id>http://rhetoric.jerith.org/</id><updated>2014-07-12T14:00:00+02:00</updated><entry><title>First Look at OCaml</title><link href="http://rhetoric.jerith.org/posts/2014/07/first-look-at-ocaml/" rel="alternate"></link><updated>2014-07-12T14:00:00+02:00</updated><author><name>Jeremy Thurgood</name></author><id>tag:rhetoric.jerith.org,2014-07-12:posts/2014/07/first-look-at-ocaml/</id><summary type="html">&lt;p&gt;I recently listened to &lt;a href="http://www.se-radio.net/2014/05/episode-204-anil-madhavapeddy-on-the-mirage-cloud-operating-system-and-the-ocaml-language/"&gt;an episode of Software Engineering Radio&lt;/a&gt;
+in which &lt;a href="http://anil.recoil.org/"&gt;Anil Madhavapeddy&lt;/a&gt; talks about OCaml and &lt;a href="http://openmirage.org/"&gt;Mirage&lt;/a&gt;.
+While OCaml isn't the primary focus of the interview, the reasons it was chosen
+as the basis for Mirage intrigued me enough that I was inspired to take a look.&lt;/p&gt;
+&lt;p&gt;The full text of &lt;a href="https://realworldocaml.org/"&gt;Real World OCaml&lt;/a&gt; is available for free online, so I
+dove right in and found it to be engaging and informative. I haven't quite
+finished reading it yet (Part III is mostly details that aren't relevant to the
+writing of small program), but within a week I was comfortable enough to start
+writing a prototype &lt;a href="https://github.com/praekelt/vumi"&gt;Vumi&lt;/a&gt; worker in OCaml. (More on that in a future
+post.)&lt;/p&gt;
+&lt;p&gt;At this point, I saw a reference to &lt;a href="http://roscidus.com/blog/blog/categories/ocaml/"&gt;a series of blog posts&lt;/a&gt;
+documenting &lt;a href="http://zero-install.sourceforge.net/"&gt;0install&lt;/a&gt;'s transition from Python to OCaml. They're
+well worth reading for anyone interested in the costs and benefits of writing a
+nontrivial software system in OCaml. While writing this post (the next
+paragraph, actually) I saw a recommendation for this very useful
+&lt;a href="http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html"&gt;beginner's guide to OCaml beginner's guides&lt;/a&gt; and read through
+it. Both of these were mentioned in the #ocaml IRC channel on freenode, which
+is probably the best programming language channel I've seen.&lt;/p&gt;
+&lt;p&gt;While I'm not yet fluent enough in OCaml to write idiomatic code, I'm far
+enough along the learning curve that I'm able to solve real problems in the
+language as long as I have language and library references handy. OCaml is
+notable in that I've reached this point without discovering anything I hate
+about it. The only other language that remained hate-free this far into the
+learning process was Python, and it's still the language I'm least grumpy
+about.&lt;/p&gt;
+&lt;p&gt;I'm looking forward to learning more about OCaml by (hopefully) building some
+useful software in it over the next few weeks. It's certainly the language I've
+been happiest about learning nearly a decade.&lt;/p&gt;</summary><category term="language"></category><category term="ocaml"></category></entry></feed>

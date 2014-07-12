@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://rhetoric.jerith.org/index.html</loc>
-<lastmod>2014-07-12T12:45:58-00:00</lastmod>
+<lastmod>2014-07-12T14:39:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://rhetoric.jerith.org/archives.html</loc>
-<lastmod>2014-07-12T12:45:58-00:00</lastmod>
+<lastmod>2014-07-12T14:39:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://rhetoric.jerith.org/tags.html</loc>
-<lastmod>2014-07-12T12:45:58-00:00</lastmod>
+<lastmod>2014-07-12T14:39:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://rhetoric.jerith.org/categories.html</loc>
-<lastmod>2014-07-12T12:45:58-00:00</lastmod>
+<lastmod>2014-07-12T14:39:08-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://rhetoric.jerith.org/posts/2014/07/first-look-at-ocaml/</loc>
+<lastmod>2014-07-12T14:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -46,8 +53,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://rhetoric.jerith.org/category/programming.html</loc>
+<lastmod>2014-07-12T14:00:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://rhetoric.jerith.org/tag/ocaml.html</loc>
+<lastmod>2014-07-12T14:00:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://rhetoric.jerith.org/tag/language.html</loc>
+<lastmod>2014-07-12T14:00:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://rhetoric.jerith.org/author/jeremy-thurgood.html</loc>
-<lastmod>2014-07-08T00:00:00-00:00</lastmod>
+<lastmod>2014-07-12T14:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
