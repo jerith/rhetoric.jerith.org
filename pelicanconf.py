@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Jeremy Thurgood'
-SITENAME = 'jerith dot org'
+SITENAME = 'metacarpal rhetoric'
 SITEURL = 'http://localhost:8000'  # Overridden in publishconf.py
 SITESUBTITLE = 'Making the world a better place, one line of code at a time.'
 
